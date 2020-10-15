@@ -20,7 +20,7 @@ conn.commit()
 # cur.execute('SOME SELECT QUERY')
 # cur.fetchone()  # Returns the first row from the response
 # cur.fetchall()  # Returns all rows from the response
-# conn.commit()
+# conn.commit() 
 
 emety = ''
 
